@@ -65,4 +65,4 @@ This repository is licensed under the MIT license.
 A huge thanks to the students and collaborators who made this possible. Special mention to the creators of the free tools and databases used in this repository.
 
 ## Questions or Feedback?
-Feel free to reach out by opening an issue or contacting us at --
+Feel free to reach out by opening an issue or contacting us via email vmiranda114@soyudemedellin.edu.co or ldiaz577@soyudemedellin.edu.co
