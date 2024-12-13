@@ -31,8 +31,8 @@ Before you begin, ensure you have the following installed on your system:
 ### Step 2: Clone the Repository  
 To download the repository locally, open your terminal and run:  
 ```bash  
-git clone https://github.com  
-cd --  
+git clone https://github.com/vmiranda4/Computational-Chemistry.git
+cd Computational-Chemistry  
 ```
 ### Step 3: Create a Virtual Environment
 
@@ -51,8 +51,18 @@ We recommend using `Conda` to create an isolated environment for this project
     ```bash
    pip install -r requirements.txt
     ```
+### Step 4: Running the Code
+Navigate to the desired module and run the scripts or Jupyter Notebooks using:
 
-- Jupyter-lab
-- ASE
-- PyXtal
-- Wulffpack
+```bash
+jupyter-lab
+
+```
+## License
+This repository is licensed under the MIT license.
+
+## Acknowledgments
+A huge thanks to the students and collaborators who made this possible. Special mention to the creators of the free tools and databases used in this repository.
+
+## Questions or Feedback?
+Feel free to reach out by opening an issue or contacting us at --
