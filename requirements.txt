@@ -1,0 +1,12 @@
+python==3.11.4
+ase==3.22.1
+crystal-toolkit==2023.8.9
+crystaltoolkit-extension==0.6.0
+jupyter-lab==3.6.5
+matminer==0.9.0
+mp-api #the latest version
+numpy==1.26.4
+pandas==2.1.1
+pymatgen==2024.11.13
+pyxtal=0.6.1
+wulffpack=1.2
